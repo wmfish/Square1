@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:text="How are you feeling today?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mood-tracker"
+        android:layout_weight="1" />
+
+    <Button
+        android:text="Trigger Tracking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/trigger-tracking"
+        android:layout_weight="1" />
+
+    <Button
+        android:text="Lifestyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lifestyle"
+        android:layout_weight="1" />
+
+    <Button
+        android:text="SOS Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sos"
+        android:layout_weight="1" />
+
+    <Button
+        android:text="Resources"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/resources"
+        android:layout_weight="1" />
+
+    <Button
+        android:text="Hack Harassment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hack-harassment"
+        android:layout_weight="1" />
+
+</LinearLayout>
