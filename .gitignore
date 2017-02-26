@@ -48,6 +48,5 @@ Temporary Items
 
 #Matt's shit
 
-**/.gradle/**
-**/.idea/**
-**/gradle/**
+.gradle
+.idea
